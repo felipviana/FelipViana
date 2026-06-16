@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Fábio Felipe, tenho 24 anos e sou natural de João Pessoa PB. Atualmente, estou cursando Ciência da Computação na UNIPE.
+Me chamo Fábio Felipe, tenho 25 anos e sou natural de João Pessoa PB. Bacharel em Ciência da Computação.
 
 
 ---
